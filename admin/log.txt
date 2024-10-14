@@ -1,0 +1,58 @@
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"tae"}
+Request received: {"announcementInput":"Good day Class wtf Barangay mani"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasdasdasd"}
+Request received: {"announcementInput":"tae"}
+Request received: {"announcementInput":"dasdasd"}
+Request received: {"announcementInput":"dasdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasdasdasd"}
+Request received: {"announcementInput":"tae ni longlong"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"datte"}
+Request received: {"announcementInput":"datre"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"tae"}
+Request received: {"announcementInput":"tae"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"longlong"}
+Request received: {"announcementInput":"longlongs"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"wtf"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"yawa ka"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdas"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"fuck you\n"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"tae"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"asdasasd"}
+Request received: {"announcementInput":"tae"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"tae"}
+Request received: {"announcementInput":"asdasd"}
+Request received: {"announcementInput":"tae igit"}
+Request received: {"announcementInput":"asdasd"}
